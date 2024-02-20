@@ -1,0 +1,260 @@
+PETR4-Treinamento 1
+Min =  -26.86386435228215
+Mean =  -6.897059664201952
+Tempo de Execucao: 8.450550317764282 segundos
+Taxa de Acerto: 47.368421052631575 %
+Taxa de Erro: 52.63157894736842 %
+Ganho: 52.92132871636533 %
+Perda: 40.52571249250802 %
+payoff: 1.305870408229069
+Lucro Total: 12.395616223857312 &
+Buy and Hold: 13.961608866874306 %
+Total de Operacoes: 19
+
+PETR4-Treinamento 2
+Min =  -3.267670034496902
+Mean =  -0.5204930169317722
+Tempo de Execucao: 8.442000389099121 segundos
+Taxa de Acerto: 75.0 %
+Taxa de Erro: 25.0 %
+Ganho: 86.2466417334773 %
+Perda: 4.8512925029317095 %
+payoff: 17.778074952470327
+Lucro Total: 81.39534923054559 %
+Buy and Hold: 13.961608866874306 %
+Total de Operacoes: 12
+
+PETR4-Treinamento 3
+Min =  0.0
+Mean =  0.0
+Tempo de Execucao: 6.864420413970947 segundos
+Taxa de Acerto: 100.0 %
+Taxa de Erro: 0.0 %
+Ganho: 10.95113534261249 %
+Perda: 0 %
+payoff: inf
+Lucro Total: 10.95113534261249 %
+Buy and Hold: 13.961608866874306 %
+Total de Operacoes: 1
+
+VALE3-Treinamento 4
+Não ocorreu nenhuma operação
+
+VALE3-Treinamento 5
+Não ocorreu nenhuma operação
+
+PETR4-Treinamento 6
+Min =  -5.0212408949701395
+Mean =  -1.543614052744807
+Tempo de Execucao: 7.810287237167358 segundos
+Taxa de Acerto: 25.0 %
+Taxa de Erro: 75.0 %
+Ganho: 1.9550719444894924 %
+Perda: 9.038717438405968 %
+payoff: 0.21629970820664143
+Lucro Total: -7.083645493916475 %
+Buy and Hold: 13.961608866874306 %
+Total de Operacoes: 4
+
+VALE3-Treinamento 1
+Não ocorreu nenhuma operação
+
+VALE3-Treinamento 2
+Não ocorreu nenhuma operação
+
+VALE3-Treinamento 3
+Min =  -1.8699569604051953
+Mean =  -0.9349784802025977
+Tempo de Execucao: 7.495786666870117 segundos
+Taxa de Acerto: 50.0 %
+Taxa de Erro: 50.0 %
+Ganho: 1.2332316741023825 %
+Perda: 1.8699569604051953 %
+payoff: 0.6594973575408695
+Lucro Total: -0.6367252863028128 %
+Buy and Hold: -28.62416075594839 %
+Total de Operacoes: 2
+
+VALE3-Treinamento 4
+Min =  -44.0046118341329
+Mean =  -22.9182125064164
+Tempo de Execucao: 7.911530256271362 segundos
+Taxa de Acerto: 48.275862068965516 %
+Taxa de Erro: 51.724137931034484 %
+Ganho: 37.586713417736775 %
+Perda: 73.47950859981995 %
+payoff: 0.5115264668200146
+Lucro Total: -35.89279518208319 %
+Buy and Hold: -28.62416075594839 %
+Total de Operacoes: 29
+
+VALE3-Treinamento 5
+Não ocorreu nenhuma operação
+
+VALE3-Treinamento 6
+Min =  -3.8347309205171496
+Mean =  -1.6485758900310794
+Tempo de Execucao: 7.7455525398254395 segundos
+Taxa de Acerto: 0.0 %
+Taxa de Erro: 100.0 %
+Ganho: 0 %
+Perda: 5.508147782520008 %
+payoff: 0.0
+Lucro Total: -5.508147782520008 %
+Buy and Hold: -28.62416075594839 %
+Total de Operacoes: 3
+
+ITUB4-Treinamento 1
+Min =  0.0
+Mean =  0.0
+Tempo de Execucao: 7.983608245849609 segundos
+Taxa de Acerto: 100.0 %
+Taxa de Erro: 0.0 %
+Ganho: 9.759082939915091 %
+Perda: 0 %
+payoff: inf
+Lucro Total: 9.759082939915091 %
+Buy and Hold: 7.513271416024517 %
+Total de Operacoes: 1
+
+ITUB4-Treinamento 2
+Min =  -0.5887354623824419
+Mean =  -0.29436773119122095
+Tempo de Execucao: 7.711838960647583 segundos
+Taxa de Acerto: 0.0 %
+Taxa de Erro: 100.0 %
+Ganho: 0 %
+Perda: 2.125914259955616 %
+payoff: 0.0
+Lucro Total: -2.125914259955616 %
+Buy and Hold: 7.513271416024517 %
+Total de Operacoes: 2
+
+ITUB4-Treinamento 3
+Não ocorreu nenhuma operação
+
+ITUB4-Treinamento 4
+Não ocorreu nenhuma operação
+
+ITUB4-Treinamento 5
+Min =  0.0
+Mean =  0.0
+Tempo de Execucao: 7.659233093261719 segundos
+Taxa de Acerto: 100.0 %
+Taxa de Erro: 0.0 %
+Ganho: 0.12406442894235074 %
+Perda: 0 %
+payoff: inf
+Lucro Total: 0.12406442894235074 %
+Buy and Hold: 7.513271416024517 %
+Total de Operacoes: 1
+
+ITUB4-Treinamento 6
+Não ocorreu nenhuma operação
+
+BBDC4-Treinamento 1
+Min =  -21.59701811571885
+Mean =  -7.857149949132531
+Tempo de Execucao: 7.982224225997925 segundos
+Taxa de Acerto: 70.0 %
+Taxa de Erro: 30.0 %
+Ganho: 197.424189603352 %
+Perda: 41.918889914960644 %
+payoff: 4.709671224687948
+Lucro Total: 155.50529968839137 %
+Buy and Hold: 5.152543924622616 %
+Total de Operacoes: 40
+
+BBDC4-Treinamento 2
+Não ocorreu nenhuma operação
+
+BBDC4-Treinamento 3
+Min =  -52.35538474382983
+Mean =  -27.53204161162063
+Tempo de Execucao: 6.983665466308594 segundos
+Taxa de Acerto: 33.33333333333333 %
+Taxa de Erro: 66.66666666666666 %
+Ganho: 30.09914763621976 %
+Perda: 53.033353431760176 %
+payoff: 0.5675512802513867
+Lucro Total: -22.93420579554042 %
+Buy and Hold: 5.152543924622616 %
+Total de Operacoes: 12
+
+BBDC4-Treinamento 4
+Não ocorreu nenhuma operação
+
+BBDC4-Treinamento 5
+Não ocorreu nenhuma operação
+
+BBDC4-Treinamento 6
+Não ocorreu nenhuma operação
+
+BBAS3-Treinamento 1
+Min =  0.0
+Mean =  0.0
+Tempo de Execucao: 7.961719036102295 segundos
+Taxa de Acerto: 100.0 %
+Taxa de Erro: 0.0 %
+Ganho: 58.4366986870416 %
+Perda: 0 %
+payoff: inf
+Lucro Total: 58.4366986870416 %
+Buy and Hold: 34.15514486961614 %
+Total de Operacoes: 3
+
+BBAS3-Treinamento 2
+Não ocorreu nenhuma operação
+
+BBAS3-Treinamento 3
+Min =  0.0
+Mean =  0.0
+Tempo de Execucao: 7.819269895553589 segundos
+Taxa de Acerto: 100.0 %
+Taxa de Erro: 0.0 %
+Ganho: 11.975699815433535 %
+Perda: 0 %
+payoff: inf
+Lucro Total: 11.975699815433535 %
+Buy and Hold: 34.15514486961614 %
+Total de Operacoes: 1
+
+BBAS3-Treinamento 4
+Min =  -12.47123232303965
+Mean =  -1.9676609857536855
+Tempo de Execucao: 7.693681955337524 segundos
+Taxa de Acerto: 75.0 %
+Taxa de Erro: 25.0 %
+Ganho: 180.12414284677465 %
+Perda: 29.64377727156294 %
+payoff: 6.076288497133138
+Lucro Total: 150.48036557521164 %
+Buy and Hold: 34.15514486961614 %
+Total de Operacoes: 44
+
+BBAS3-Treinamento 5
+Min =  0.0
+Mean =  0.0
+Tempo de Execucao: 7.862012624740601 segundos
+Taxa de Acerto: 100.0 %
+Taxa de Erro: 0.0 %
+Ganho: 181.34654701307954 %
+Perda: 0 %
+payoff: inf
+Lucro Total: 181.34654701307954 %
+Buy and Hold: 34.15514486961614 %
+Total de Operacoes: 11
+
+BBAS3-Treinamento 6
+Min =  0.0
+Mean =  0.0
+Tempo de Execucao: 7.813478231430054 segundos
+Taxa de Acerto: 100.0 %
+Taxa de Erro: 0.0 %
+Ganho: 6.286437247844407 %
+Perda: 0 %
+payoff: inf
+Lucro Total: 6.286437247844407 %
+Buy and Hold: 34.15514486961614 %
+Total de Operacoes: 1
+
