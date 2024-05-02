@@ -1,0 +1,454 @@
+PETR4 - DecisionTreeClassifier
+Min =  -19.235606956815346
+Mean =  -6.778603727149639
+Taxa de Acerto: 53.84615384615385 %
+Taxa de Erro: 46.15384615384615 %
+Ganho: 51.68174476305571 %
+Perda: 44.61688598668649 %
+payoff: 1.158344954385148
+Lucro Total: 7.064858776369225 %
+Lucro Total em Reais: 0.6699924468994141
+Buy and Hold: 48.9532409420572 %
+Total de Operacoes: 39
+
+PETR4 - SVC
+Min =  -54.14604802749259
+Mean =  -26.306766297216974
+Taxa de Acerto: 51.28205128205128 %
+Taxa de Erro: 48.717948717948715 %
+Ganho: 94.70113550358616 %
+Perda: 96.64342949110014 %
+payoff: 0.9799024724418245
+Lucro Total: -1.9422939875139456 %
+Lucro Total em Reais: -0.35999298095703125
+Buy and Hold: 48.9532409420572 %
+Total de Operacoes: 39
+
+PETR4 - LogisticRegression
+Min =  -47.88816616474915
+Mean =  -31.118352519948026
+Taxa de Acerto: 35.0 %
+Taxa de Erro: 65.0 %
+Ganho: 59.22674699068166 %
+Perda: 72.60895982080412 %
+payoff: 0.8156947453434232
+Lucro Total: -13.382212830122455 %
+Lucro Total em Reais: -4.599996566772461
+Buy and Hold: 48.9532409420572 %
+Total de Operacoes: 20
+
+PETR4 - KNeighborsClassifier
+Min =  -35.627165782434886
+Mean =  -7.084969424634965
+Taxa de Acerto: 56.02836879432624 %
+Taxa de Erro: 43.97163120567376 %
+Ganho: 210.99787050097788 %
+Perda: 138.71564633895147 %
+payoff: 1.5210819836819627
+Lucro Total: 72.28222416202652 %
+Lucro Total em Reais: 21.799997329711914
+Buy and Hold: 48.9532409420572 %
+Total de Operacoes: 141
+
+VALE3 - DecisionTreeClassifier
+Min =  -33.868974028387996
+Mean =  -12.713807363615121
+Taxa de Acerto: 51.5625 %
+Taxa de Erro: 48.4375 %
+Ganho: 105.8186944824734 %
+Perda: 94.63851755174295 %
+payoff: 1.1181355881300419
+Lucro Total: 11.180176930730461 %
+Lucro Total em Reais: -3.310009002685547
+Buy and Hold: -39.393937745498896 %
+Total de Operacoes: 64
+
+VALE3 - SVC
+Não realizou operações
+
+VALE3 - LogisticRegression
+Min =  -41.89826059653338
+Mean =  -18.670886117525548
+Taxa de Acerto: 55.223880597014926 %
+Taxa de Erro: 44.776119402985074 %
+Ganho: 130.2624137376085 %
+Perda: 148.88653578894557 %
+payoff: 0.8749106361253665
+Lucro Total: -18.624122051337018 %
+Lucro Total em Reais: -26.150035858154297
+Buy and Hold: -39.393937745498896 %
+Total de Operacoes: 67
+
+VALE3 - KNeighborsClassifier
+Min =  -63.20966853408902
+Mean =  -37.54604055662917
+Taxa de Acerto: 48.99328859060403 %
+Taxa de Erro: 51.006711409395976 %
+Ganho: 172.47575157172992 %
+Perda: 207.91169437610313 %
+payoff: 0.8295625317724017
+Lucro Total: -35.435942804373184 %
+Lucro Total em Reais: -41.789974212646484
+Buy and Hold: -39.393937745498896 %
+Total de Operacoes: 149
+
+BBAS3 - DecisionTreeClassifier
+Min =  -25.372863383288596
+Mean =  -6.102592933579093
+Taxa de Acerto: 67.79661016949152 %
+Taxa de Erro: 32.20338983050847 %
+Ganho: 74.45490193276582 %
+Perda: 60.325517789167215 %
+payoff: 1.2342190280567447
+Lucro Total: 14.129384143598605 %
+Lucro Total em Reais: 5.020002365112305
+Buy and Hold: 62.55618374240248 %
+Total de Operacoes: 59
+
+BBAS3 - SVC
+Min =  -29.158797706475696
+Mean =  -11.547167701833384
+Taxa de Acerto: 54.166666666666664 %
+Taxa de Erro: 45.83333333333333 %
+Ganho: 102.43610863681408 %
+Perda: 60.513827744581626 %
+payoff: 1.6927719242811599
+Lucro Total: 41.92228089223246 %
+Lucro Total em Reais: 15.119993209838867
+Buy and Hold: 62.55618374240248 %
+Total de Operacoes: 24
+
+BBAS3 - LogisticRegression
+Min =  -18.954953360180482
+Mean =  -5.404183126485483
+Taxa de Acerto: 59.25925925925925 %
+Taxa de Erro: 40.74074074074074 %
+Ganho: 118.87395428262138 %
+Perda: 52.14195221162585 %
+payoff: 2.2798140315144666
+Lucro Total: 66.73200207099552 %
+Lucro Total em Reais: 27.18000030517578
+Buy and Hold: 62.55618374240248 %
+Total de Operacoes: 27
+
+BBAS3 - KNeighborsClassifier
+Min =  -22.572116454812964
+Mean =  -6.262335675234769
+Taxa de Acerto: 57.77777777777777 %
+Taxa de Erro: 42.22222222222222 %
+Ganho: 152.80165477275273 %
+Perda: 126.60066075565972 %
+payoff: 1.2069577983298296
+Lucro Total: 26.20099401709294 %
+Lucro Total em Reais: 9.570003509521484
+Buy and Hold: 62.55618374240248 %
+Total de Operacoes: 135
+
+ITUB4 - DecisionTreeClassifier
+Min =  -20.48463939365125
+Mean =  -7.846381762906276
+Taxa de Acerto: 64.44444444444444 %
+Taxa de Erro: 35.55555555555556 %
+Ganho: 96.663262210067 %
+Perda: 85.98062025831312 %
+payoff: 1.1242447649209766
+Lucro Total: 10.682641951753897 %
+Lucro Total em Reais: 1.5200080871582031
+Buy and Hold: 3.8484746199323796 %
+Total de Operacoes: 90
+
+ITUB4 - SVC
+Não realizou operações
+
+ITUB4 - LogisticRegression
+Min =  -14.104036818753844
+Mean =  -4.0361617722570635
+Taxa de Acerto: 70.1492537313433 %
+Taxa de Erro: 29.850746268656714 %
+Ganho: 83.57344528614412 %
+Perda: 63.73890204244517 %
+payoff: 1.3111842627990467
+Lucro Total: 19.834543243698974 %
+Lucro Total em Reais: 4.690006256103516
+Buy and Hold: 3.8484746199323796 %
+Total de Operacoes: 67
+
+ITUB4 - KNeighborsClassifier
+Min =  -20.362656938640896
+Mean =  -10.284464008769671
+Taxa de Acerto: 47.74193548387097 %
+Taxa de Erro: 52.25806451612903 %
+Ganho: 140.55683930248543 %
+Perda: 134.09828301980923 %
+payoff: 1.0481628559086185
+Lucro Total: 6.458556282676115 %
+Lucro Total em Reais: -0.04998970031738281
+Buy and Hold: 3.8484746199323796 %
+Total de Operacoes: 155
+
+BBDC4 - DecisionTreeClassifier
+Min =  -0.3901197605347372
+Mean =  -0.005232604835786341
+Taxa de Acerto: 0.0 %
+Taxa de Erro: 100.0 %
+Ganho: 0 %
+Perda: 0.3901197605347372 %
+payoff: 0.0
+Lucro Total: -0.3901197605347372 %
+Lucro Total em Reais: -0.06000041961669922
+Buy and Hold: -47.23131744339935 %
+Total de Operacoes: 1
+
+BBDC4 - SVC
+Não realizou operações
+
+BBDC4 - LogisticRegression
+Min =  -45.86246923259718
+Mean =  -16.928261048883417
+Taxa de Acerto: 58.9041095890411 %
+Taxa de Erro: 41.0958904109589 %
+Ganho: 103.84219550822571 %
+Perda: 115.8732647433928 %
+payoff: 0.8961704474124338
+Lucro Total: -12.031069235167099 %
+Lucro Total em Reais: -2.6700000762939453
+Buy and Hold: -47.23131744339935 %
+Total de Operacoes: 73
+
+BBDC4 - KNeighborsClassifier
+Min =  -49.58547345427594
+Mean =  -23.262163203209145
+Taxa de Acerto: 47.712418300653596 %
+Taxa de Erro: 52.28758169934641 %
+Ganho: 142.98984577658757 %
+Perda: 172.88208368590966 %
+payoff: 0.8270946458302181
+Lucro Total: -29.892237909322073 %
+Lucro Total em Reais: -6.535462379455566
+Buy and Hold: -47.23131744339935 %
+Total de Operacoes: 153
+
+MGLU3 - DecisionTreeClassifier
+Não realizou operações
+
+MGLU3 - SVC
+Não realizou operações
+
+MGLU3 - LogisticRegression
+Min =  -77.06610016094574
+Mean =  -22.618354185403714
+Taxa de Acerto: 30.0 %
+Taxa de Erro: 70.0 %
+Ganho: 29.478942707159028 %
+Perda: 96.17106257865031 %
+payoff: 0.30652612040186883
+Lucro Total: -66.69211987149129 %
+Lucro Total em Reais: -2.469253897666931
+Buy and Hold: -89.23994097371242 %
+Total de Operacoes: 10
+
+MGLU3 - KNeighborsClassifier
+Min =  -190.41130925617009
+Mean =  -93.17463986221064
+Taxa de Acerto: 44.21768707482993 %
+Taxa de Erro: 55.78231292517006 %
+Ganho: 317.3145737222953 %
+Perda: 467.10233276538855 %
+payoff: 0.6793256026868802
+Lucro Total: -149.7877590430931 %
+Lucro Total em Reais: -10.052489161491394
+Buy and Hold: -89.23994097371242 %
+Total de Operacoes: 147
+
+ABEV3 - DecisionTreeClassifier
+Min =  -16.15708584081065
+Mean =  -9.08320033122734
+Taxa de Acerto: 55.00000000000001 %
+Taxa de Erro: 45.0 %
+Ganho: 39.546464993402786 %
+Perda: 45.67546001286206 %
+payoff: 0.8658142683678858
+Lucro Total: -6.12899501945928 %
+Lucro Total em Reais: -1.5000009536743164
+Buy and Hold: -33.92024556299432 %
+Total de Operacoes: 40
+
+ABEV3 - SVC
+Não realizou operações
+
+ABEV3 - LogisticRegression
+Min =  -16.517646337856725
+Mean =  -4.943182632833498
+Taxa de Acerto: 70.1492537313433 %
+Taxa de Erro: 29.850746268656714 %
+Ganho: 82.79705955931773 %
+Perda: 57.02561826101803 %
+payoff: 1.4519274333921026
+Lucro Total: 25.7714412982997 %
+Lucro Total em Reais: 3.229996681213379
+Buy and Hold: -33.92024556299432 %
+Total de Operacoes: 67
+
+ABEV3 - KNeighborsClassifier
+Min =  -15.777773670374803
+Mean =  -7.522657638660859
+Taxa de Acerto: 49.00662251655629 %
+Taxa de Erro: 50.993377483443716 %
+Ganho: 129.53034790351379 %
+Perda: 129.0549769133873 %
+payoff: 1.0036834766197784
+Lucro Total: 0.4753709901265617 %
+Lucro Total em Reais: -0.4200010299682617
+Buy and Hold: -33.92024556299432 %
+Total de Operacoes: 151
+
+PRIO3 - DecisionTreeClassifier
+Min =  -5.983309014478282
+Mean =  -1.4153937243939088
+Taxa de Acerto: 57.14285714285714 %
+Taxa de Erro: 42.857142857142854 %
+Ganho: 93.7771009139273 %
+Perda: 9.279193070544329 %
+payoff: 10.106169814658918
+Lucro Total: 84.49790784338298 %
+Lucro Total em Reais: 21.779998779296875
+Buy and Hold: 138.94737645199424 %
+Total de Operacoes: 7
+
+PRIO3 - SVC
+Min =  -14.25357619679658
+Mean =  -4.064261074549564
+Taxa de Acerto: 31.25 %
+Taxa de Erro: 68.75 %
+Ganho: 34.30542107859226 %
+Perda: 26.01920354634937 %
+payoff: 1.3184654563880949
+Lucro Total: 8.286217532242894 %
+Lucro Total em Reais: 3.7199935913085938
+Buy and Hold: 138.94737645199424 %
+Total de Operacoes: 16
+
+PRIO3 - LogisticRegression
+Min =  -14.731108985941319
+Mean =  -5.0614558340407765
+Taxa de Acerto: 28.57142857142857 %
+Taxa de Erro: 71.42857142857143 %
+Ganho: 25.380714181709255 %
+Perda: 25.488741776113844 %
+payoff: 0.9957617525669382
+Lucro Total: -0.10802759440458676 %
+Lucro Total em Reais: -0.45999908447265625
+Buy and Hold: 138.94737645199424 %
+Total de Operacoes: 14
+
+PRIO3 - KNeighborsClassifier
+Min =  -25.289614930659162
+Mean =  -7.186355644227867
+Taxa de Acerto: 48.93617021276596 %
+Taxa de Erro: 51.06382978723404 %
+Ganho: 218.00485823724063 %
+Perda: 179.33502452907592 %
+payoff: 1.2156290095016833
+Lucro Total: 38.66983370816477 %
+Lucro Total em Reais: 8.380002975463867
+Buy and Hold: 138.94737645199424 %
+Total de Operacoes: 141
+
+ELET3 - DecisionTreeClassifier
+Min =  -28.24860457351106
+Mean =  -8.612344660593914
+Taxa de Acerto: 49.23076923076923 %
+Taxa de Erro: 50.76923076923077 %
+Ganho: 103.28398482214868 %
+Perda: 80.10991178274071 %
+payoff: 1.2892784740826628
+Lucro Total: 23.174073039407965 %
+Lucro Total em Reais: 6.900003433227539
+Buy and Hold: -6.015040131086559 %
+Total de Operacoes: 65
+
+ELET3 - SVC
+Min =  -22.937522374771557
+Mean =  -8.779402040742132
+Taxa de Acerto: 61.29032258064516 %
+Taxa de Erro: 38.70967741935484 %
+Ganho: 37.6736407921634 %
+Perda: 34.49058758027764 %
+payoff: 1.0922875901860798
+Lucro Total: 3.1830532118857637 %
+Lucro Total em Reais: -0.09998893737792969
+Buy and Hold: -6.015040131086559 %
+Total de Operacoes: 31
+
+ELET3 - LogisticRegression
+Min =  -44.25826540269782
+Mean =  -18.081723593487183
+Taxa de Acerto: 34.78260869565217 %
+Taxa de Erro: 65.21739130434783 %
+Ganho: 111.56996682139571 %
+Perda: 145.66642541584318 %
+payoff: 0.7659278142021393
+Lucro Total: -34.09645859444752 %
+Lucro Total em Reais: -14.850006103515625
+Buy and Hold: -6.015040131086559 %
+Total de Operacoes: 92
+
+ELET3 - KNeighborsClassifier
+Min =  -32.425891706643924
+Mean =  -13.780807977127703
+Taxa de Acerto: 48.760330578512395 %
+Taxa de Erro: 51.2396694214876 %
+Ganho: 114.63446988785338 %
+Perda: 128.120621035322 %
+payoff: 0.8947386373989666
+Lucro Total: -13.486151147468595 %
+Lucro Total em Reais: -6.159967422485352
+Buy and Hold: -6.015040131086559 %
+Total de Operacoes: 121
+
+WEGE3 - DecisionTreeClassifier
+Min =  -36.507634142783274
+Mean =  -21.38238900202001
+Taxa de Acerto: 37.93103448275862 %
+Taxa de Erro: 62.06896551724138 %
+Ganho: 69.39695100457291 %
+Perda: 85.26729487726412 %
+payoff: 0.8138753680935301
+Lucro Total: -15.870343872691182 %
+Lucro Total em Reais: -5.900005340576172
+Buy and Hold: -2.3809563856315763 %
+Total de Operacoes: 58
+
+WEGE3 - SVC
+Não realizou operações
+
+WEGE3 - LogisticRegression
+Min =  -35.141610770117374
+Mean =  -13.492850368978795
+Taxa de Acerto: 39.75903614457831 %
+Taxa de Erro: 60.24096385542169 %
+Ganho: 90.79779843323212 %
+Perda: 104.7763601189765 %
+payoff: 0.8665866835813791
+Lucro Total: -13.978561685744387 %
+Lucro Total em Reais: -6.910001754760742
+Buy and Hold: -2.3809563856315763 %
+Total de Operacoes: 83
+
+WEGE3 - KNeighborsClassifier
+Min =  -29.96233542902256
+Mean =  -7.938031574062944
+Taxa de Acerto: 49.64028776978417 %
+Taxa de Erro: 50.35971223021583 %
+Ganho: 161.9696307441121 %
+Perda: 136.76890985165193 %
+payoff: 1.1842576717164335
+Lucro Total: 25.20072089246006 %
+Lucro Total em Reais: 6.979986190795898
+Buy and Hold: -2.3809563856315763 %
+Total de Operacoes: 139
+
+DecisionTreeClassifier
+SVC
+LogisticRegression
+KNeighborsClassifier
